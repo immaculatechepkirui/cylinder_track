@@ -1,4 +1,3 @@
-```text
 # CylinderTrack
 
 Mobile-first web app (PWA) for LPG delivery tracking and cylinder returns — hackathon starter for Green Wells Innovation Challenge.
@@ -13,7 +12,7 @@ Quick start
 
 3. Create a Firebase project and enable Firestore + Hosting. Copy your Firebase config into `src/services/firebase.js`.
 
-4. (Optional) For driver simulation, create a service account key and save as `serviceAccountKey.json` (DO NOT commit public keys).
+4. (Optional) For driver simulation, create a service account key and save it as `serviceAccountKey.json` (DO NOT commit public keys).
 
 5. Local development
    - npm run dev
@@ -31,4 +30,3 @@ Files included
 Notes
 - Replace Firebase config placeholders in `src/services/firebase.js` with your project values.
 - Do NOT commit `serviceAccountKey.json` to a public repo.
-```
