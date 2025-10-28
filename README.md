@@ -1,4 +1,4 @@
-# CylinderTrack — Quick Start
+# CylinderTrack 
 
 Overview
 CylinderTrack is a mobile-first LPG ordering and operations tracker that demonstrates real-time driver tracking, order lifecycle management, and cylinder return tracking. Built for a rapid hackathon demo with React and Firebase.
